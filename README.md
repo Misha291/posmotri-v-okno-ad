@@ -18,7 +18,7 @@ CSS3 (Flexbox, Grid, псевдоклассы, логические размер
 
 Работа с состояниями элементов (:hover, :active, :focus-visible)
 
-### Автор
+## Автор
 GitHub — @misha291
 
 Ссылка _ https://github.com/Misha291/posmotri-v-okno-ad
