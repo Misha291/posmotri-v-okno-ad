@@ -5,6 +5,7 @@ https://github.com/Misha291/posmotri-v-okno-ad
 
 ## Описание
 Приложение для просмотра видеороликов с видами из окон жителей разных городов.
+
 Проект создан для отработки навыков верстки и стилизации интерфейсов.
 
 ## Цель
@@ -12,8 +13,12 @@ https://github.com/Misha291/posmotri-v-okno-ad
 
 ## Технологии
 HTML5
+
 CSS3 (Flexbox, Grid, псевдоклассы, логические размеры)
+
 Работа с состояниями элементов (:hover, :active, :focus-visible)
+
 ### Автор
 GitHub — @misha291
+
 Ссылка _ https://github.com/Misha291/posmotri-v-okno-ad
